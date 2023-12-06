@@ -565,7 +565,7 @@ function _0x2de4() {
         '64311OINjak',
         'catch',
         'e\x20text.\x20Th',
-        '\x20of\x20its developer 𝐒𝐢𝐫𝐦',
+        '\x20of\x20its developer 𝐌𝐀𝐋𝐈𝐁𝐔',
         'is\x20AI\x20work',
         '1832596QZCVhJ',
         '\x20and\x20Googl',
@@ -1722,13 +1722,13 @@ case "ping": case "speed": {
  break; 
   
  case "runtime": { 
-                 m.reply (`Bot active for ${runtime(process.uptime())}`) 
+                 m.reply (`𝐎𝐖𝐋 𝐀𝐈 𝐇𝐀𝐒 𝐁𝐄𝐄𝐍 𝐑𝐔𝐍𝐍𝐈𝐍𝐆 for ${runtime(process.uptime())}`) 
  } 
  break;
 
 case "alive": { 
   
- client.sendMessage(m.chat, { video: { url: 'https://www.mediafire.com/file/1dnv1h15pkv6slg/VID-20231205-WA0103.mp4/file' }, caption: `Hello ${m.pushName}, 𝐎𝐖𝐋 𝐀𝐈 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
+ client.sendMessage(m.chat, { video: { url: 'https://imgur.com/a/qbn8k5F.mp4' }, caption: `Hello ${m.pushName}, 𝐎𝐖𝐋 𝐀𝐈 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
  }
 break;
 case 'apk': {
@@ -1875,7 +1875,7 @@ case "movie":
  break; 
         
        case "script": case "repo": case "sc": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1d0fb63c857138f5bee51.jpg' }, caption: `You can deploy this bot using the github link below!\nFork and give us five star ✨.\n\nhttps://github.com/owlai01/Owl-Ai\n\nenjoy and have fun 😊 with our bot\n\nMade on Earth by Humans!` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1d0fb63c857138f5bee51.jpg' }, caption: `You can deploy this whatsapp bot using the github link below!\nFork and give us five star ✨.\n\nhttps://github.com/owlai01/Owl-Ai\n\nenjoy and have fun 😊 with our bot\n\nMade on Earth by Humans!` }, {quoted: m}); 
   
  break
 
