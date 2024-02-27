@@ -400,7 +400,7 @@ let cap = `╭════〘 𓅓𝐎𝐖𝐋 𝐁𝐎𝐓𓅓 〙═⊷❍
 ┃𓅓│Compile-c++
 ┃𓅓│Ping
 ┃𓅓│Owner
-┃𓅓│Malibu
+┃𓅓│Chepx
 ┃𓅓│List
 ┃𓅓│system
 ┃𓅓│Mail
@@ -456,7 +456,7 @@ client.sendMessage(m.chat, {
                                 title: `𝐎𝐖𝐋 𝐀𝐈`,
                                 body: `${runtime(process.uptime())}`,
                                 thumbnail: fs.readFileSync('./owl-ai.jpg'),
-                                sourceUrl: 'https://wa.me/254743551416?text=ʜᴇʟʟᴏ+𝐌𝐀𝐋𝐈𝐁𝐔+Nihostie+Bot+Mkuu+🥲',
+                                sourceUrl: 'https://wa.me/254700607105?text=ʜᴇʟʟᴏ+Chepx+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -565,7 +565,7 @@ function _0x2de4() {
         '64311OINjak',
         'catch',
         'e\x20text.\x20Th',
-        '\x20of\x20its developer 𝐌𝐀𝐋𝐈𝐁𝐔',
+        '\x20of\x20its developer Chepx',
         'is\x20AI\x20work',
         '1832596QZCVhJ',
         '\x20and\x20Googl',
@@ -1874,8 +1874,8 @@ case "movie":
              } 
  break;
  
-          case "owl": case "owner": case "malibu": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/38bea6cbdfdde7efc95d7.jpg' }, caption: `Say no more 😌 here is 𝐌𝐀𝐋𝐈𝐁𝐔 contact +254712703241 🥱` }, {quoted: m}); 
+          case "owl": case "owner": case "chepx": 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/38bea6cbdfdde7efc95d7.jpg' }, caption: `Say no more 😌 here is chepx contact +254700607105 🥱` }, {quoted: m}); 
   
  break; 
         
